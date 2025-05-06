@@ -1,4 +1,4 @@
-# 🌐 Connection Tester
+# 🌐 SuperTester
 
 A modern web app for testing your internet connection quality from anywhere in the world. Instantly check your public IP, latency to major global regions, and download speed from different locations. Supports English and Russian languages.
 
